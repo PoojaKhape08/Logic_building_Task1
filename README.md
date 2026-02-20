@@ -42,27 +42,29 @@ It includes logic building exercises, Python practice problems, data processing,
 - Employee Attendance Eligibility Checker  
 - Password Strength Checker  
 
+### 🟢 Task 5 – Real-World Function-Based Problem Solving
+- Post Engagement Analyzer  
+- Medicine Stock Alert System  
+- Rainfall Adequacy Checker  
+- Duplicate Account Detection  
+- Appointment Eligibility Checker  
+- Premium Crop Price Filter  
+- Application Health Checker  
+- Daily Transaction Limit Checker  
+- Student Attendance Eligibility System  
+- Smart Electricity Bill Analyzer  
+
 ---
 
-## Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 - Python  
 - Jupyter Notebook  
 - GitHub  
 
 ---
 
-## Purpose
+## 🎯 Purpose
 - To improve logic building and problem-solving skills  
 - To strengthen Python programming fundamentals  
 - To practice real-world data processing and validation tasks  
-- To understand functions, loops, and data structures in Python   
-
----
-
-## Learning Outcome
-Through these tasks, I am gaining hands-on experience in:
-- Python basics and advanced logic building  
-- Functions and loops implementation  
-- Working with lists, dictionaries, strings, and tuples  
-- Data validation and processing techniques  
-- Writing clean, structured, and well-commented code  
+- To understand functions, loops, and data structures in Python  
